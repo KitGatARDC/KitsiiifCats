@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 70,
+    "height" : 89
+  }, {
+    "width" : 140,
+    "height" : 178
+  }, {
+    "width" : 280,
+    "height" : 356
+  }, {
+    "width" : 560,
+    "height" : 712
+  }, {
+    "width" : 1119,
+    "height" : 1423
+  }, {
+    "width" : 2238,
+    "height" : 2846
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2238,
+  "@id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-12-34_15671603191_o",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2846
+}
