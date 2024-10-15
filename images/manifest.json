@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2048,
+    "id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o/canvas/",
+    "label" : {
+      "none" : [ "pc60-48-6_15337483446_o" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 64,
+              "height" : 96
+            }, {
+              "width" : 128,
+              "height" : 192
+            }, {
+              "width" : 256,
+              "height" : 384
+            }, {
+              "width" : 512,
+              "height" : 768
+            }, {
+              "width" : 1024,
+              "height" : 1536
+            }, {
+              "width" : 2048,
+              "height" : 3072
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2048,
+            "@id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3072
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2048,
+          "id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3072
+        },
+        "target" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-6_15337483446_o/canvas/"
+      } ]
+    } ],
+    "height" : 3072
+  }, {
     "width" : 1967,
     "id" : "https://KitGatARDC.github.io/KitsiiifCats/images/pc60-48-21_15155311309_o/canvas/",
     "label" : {
